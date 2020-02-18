@@ -61,3 +61,4 @@ document.onclick = resetTimer;     // touchpad clicks
 document.onkeypress = resetTimer;
 document.addEventListener('scroll', resetTimer, true); // improved; see comments
 
+https://stackoverflow.com/questions/667555/how-to-detect-idle-time-in-javascript-elegantly
